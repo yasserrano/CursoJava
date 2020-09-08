@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula11;
+package com.aula11;
 
 public class Piadinha {
 
